@@ -435,7 +435,7 @@ main#home h1 {
             transform: translate3d(100%, 0, 0);
   }
   .menu-branding .portrait {
-    background: url("../dist/img/myphoto_small.png");
+    background: url("img/myphoto_small.png");
     width: 150px;
     height: 150px;
   }
