@@ -100,7 +100,7 @@
 .menu-branding .portrait {
   width: 250px;
   height: 250px;
-  background: url("../dist/img/myphoto.jpg");
+  background: url("img/myphoto.jpg");
   border-radius: 50%;
   border: solid 3px #138076;
 }
@@ -173,7 +173,7 @@ body {
 }
 
 body#bg-img {
-  background: url(../dist/img/back.jpg);
+  background: url(img/back.jpg);
   background-attachment: fixed;
   background-size: cover;
 }
